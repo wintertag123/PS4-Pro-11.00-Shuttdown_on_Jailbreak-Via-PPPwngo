@@ -20,9 +20,10 @@ PS4 Shutting down on PPPwngo in Stage 1...Sending IPCP Configure ACK... Solution
 **ScreenShots**
 ![PPPwnGo v2.7 Selecting PPPwn Type](https://github.com/user-attachments/assets/bc6e0cda-8f5b-4757-b7b3-52b0ef0fb57c)
 
+
+
 **Notes**
 -Tested on **PS4 Model CUH-7015B**
 -If you use Windows desactivate Firewall, Windows defender or any bloker to avoid inssues
-
 **Credits to**
 **Wintertag123**
